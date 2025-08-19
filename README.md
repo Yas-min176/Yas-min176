@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasmin, but You can call me Yas!</h1>
-<h3 align="center">A funny backend developer from Brasil</h3>
+<h3 align="center">A funny PM from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yas-min176" alt="yas-min176" /></a> </p>
 
-- 🔭 I’m currently working on **a stress-test platform**
+- 🔭 I’m currently working on **App called "Os Nossos"**
 
-- 🌱 I’m currently learning **Java and Go**
+- 🌱 I’m currently learning how to test mobile apps with **Appium**
 
 - 📫 How to reach me **yasmin.senaysb@gmail.com**
 
