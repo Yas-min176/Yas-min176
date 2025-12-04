@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yas-min176" alt="yas-min176" /></a> </p>
 
-- 🛠️ Currently working on: <b>Os Nossos</b> (mobile app)
+- 🛠️ Open to Work!
 - 🌱 Learning: <b>Mobile automation with Appium</b>
 - 💬 Ask me about: Project management, QA, mobile/web testing, and productivity tools
 - 📫 Reach me: <a href="mailto:yasmin.senaysb@gmail.com">yasmin.senaysb@gmail.com</a>
